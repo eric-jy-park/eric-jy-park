@@ -1,6 +1,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bokdol11859&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eric010506)](https://solved.ac/이름/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eric010506)](https://solved.ac/eric010506/)
 
 
 <!--

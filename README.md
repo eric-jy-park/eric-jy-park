@@ -8,7 +8,7 @@
 I am currently a frontend developer who is interested in Artificial Intelligence</div>  
   
 
-- 🔭  I’m currently working on Advanced Algorithms  
+- 🔭  I’m currently interested in Advanced Algorithms  
   
 
 - 🌱 I’m currently learning React.js and Firebase  

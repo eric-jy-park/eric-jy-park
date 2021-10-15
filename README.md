@@ -1,22 +1,21 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bokdol11859&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eric010506)](https://solved.ac/eric010506/)
+
+### Hi there 👋
+### I'm 박준열 Park Joon Youl, and I go by Eric Park. [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bokdol11859)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/eric.p__/)  
+I am currently a frontend developer who is interested in Artificial Intelligence
+
+
+Skills: REACT / JS / HTML / CSS / PYTHON / JAVA / C++
+
+- 🔭 I’m currently working on Advanced Algorithms 
+- 🌱 I’m currently learning React.js 
+- 📫 How to reach me: eric010506@naver.com 
+- ⚡ Fun fact: I might prefer English or Chinese over Korean :) 
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eric010506)](https://solved.ac/eric010506/) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bokdol11859&show_icons=true&count_private=true)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bokdol11859&layout=compact&theme=radical&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-<!--
-**Bokdol11859/Bokdol11859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+![Profile views](https://gpvc.arturio.dev/Bokdol11859)

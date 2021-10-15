@@ -2,6 +2,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bokdol11859&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eric010506)](https://solved.ac/eric010506/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bokdol11859&layout=compact&theme=radical&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **Bokdol11859/Bokdol11859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -60,15 +60,5 @@ I am currently a frontend developer who is interested in Artificial Intelligence
 </a>  
 </div>  
 
-
-<br/>  
-
-
-## Github Stats  
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eric010506)](https://solved.ac/eric010506/) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bokdol11859&show_icons=true&count_private=true)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bokdol11859&layout=compact&theme=radical&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
-
  
 ![Profile views](https://gpvc.arturio.dev/Bokdol11859)

@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm 박준열 Park Joon Youl, and I go by Eric Park.
 <br/>
-I am currently a frontend developer who is interested in Web Development, Algorithms, and Artificial Intelligence</div>  
+I am currently a frontend developer who is interested in Web Development, Algorithms, and Machine Learning/Deep Learning</div>  
   
 
 - 🔭  I’m currently interested in Advanced Algorithms  

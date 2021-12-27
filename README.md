@@ -11,7 +11,7 @@ I am currently a frontend developer who is interested in Web Development, Algori
 - 🔭  I’m currently interested in Machine Learning / Deep Learning 
   
 
-- 🌱 I’m currently learning React.js and Firebase  
+- 🌱 I’m currently learning React.js and Pytorch
   
 
 - 📫 How to reach me: eric010506@naver.com  

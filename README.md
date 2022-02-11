@@ -5,13 +5,13 @@
 
 ### <div align="center">I'm 박준열 Park Joon Youl, and I go by Eric Park.
 <br/>
-I am currently a frontend developer who is interested in Web Development, Algorithms, and AI</div>  
+I am currently a frontend developer who is also interested in Artificial Intelligence</div>  
   
 
-- 🔭  I’m currently interested in Machine Learning / Deep Learning 
+- 🔭  I’m currently interested in Deep Learning 
   
 
-- 🌱 I’m currently learning React.js and Pytorch
+- 🌱 I’m currently learning Next.js and Pytorch
   
 
 - 📫 How to reach me: eric010506@naver.com  

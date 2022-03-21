@@ -11,7 +11,7 @@ I am currently a frontend developer who is also interested in Artificial Intelli
 - 🔭  I’m currently interested in Deep Learning 
   
 
-- 🌱 I’m currently learning Next.js and Pytorch
+- 🌱 I’m currently learning Django and Pytorch
   
 
 - 📫 How to reach me: eric010506@naver.com  

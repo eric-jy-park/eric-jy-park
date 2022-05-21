@@ -5,10 +5,10 @@
 
 ### <div align="center">I'm 박준열 Park Joon Youl, and I go by Eric Park.
 <br/>
-I am currently a Frontend developer who is also interested in Artificial Intelligence</div>  
+I am currently a Frontend Developer who is also interested in Artificial Intelligence</div>  
   
 
-- 🔭  I’m currently interested in Deep Learning 
+- 🔭  I’m currently interested in Deep Learning / Problem Solving Algorithms
   
 
 - 🌱 I’m currently learning Django and Pytorch
@@ -33,5 +33,7 @@ I am currently a Frontend developer who is also interested in Artificial Intelli
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="Pytorch" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+
 
 </div>

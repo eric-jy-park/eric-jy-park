@@ -5,7 +5,9 @@
 
 ### <div align="center">I'm 박준열 Park Joon Youl, and I go by Eric Park.
 <br/>
-I am currently a Frontend Developer who is also interested in Artificial Intelligence</div>  
+I am currently a Frontend Developer who is working as a CTO at [MyPlanIt](https://www.myplanit-home.site/). 
+
+
   
 
 - 🔭  I’m currently interested in Deep Learning / Problem Solving Algorithms

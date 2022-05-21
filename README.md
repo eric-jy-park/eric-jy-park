@@ -5,21 +5,22 @@
 
 ### <div align="center">I'm 박준열 Park Joon Youl, and I go by Eric Park.
 <br/>
-I am currently a Frontend Developer who is working as a CTO at [MyPlanIt](https://www.myplanit-home.site/). 
+<div align="center"> I am currently a Frontend Developer who is working as a CTO at 
+  <div align="center"><a href="https://www.myplanit-home.site/"><img style="width: 30%" src="https://user-images.githubusercontent.com/80627536/169635921-360ab32d-0ca7-4abe-a91e-0f5f0735050d.png"/></a></div>
 
 
   
 
-- 🔭  I’m currently interested in Deep Learning / Problem Solving Algorithms
+🔭  I’m currently interested in Deep Learning / Problem Solving Algorithms
   
 
-- 🌱 I’m currently learning Django and Pytorch
+🌱 I’m currently learning Django and Pytorch
   
 
-- 📫 How to reach me: eric010506@naver.com  
+📫 How to reach me: eric010506@naver.com  
   
 
-- ⚡ Fun fact: I might prefer English or Chinese over Korean 😄  
+⚡ Fun fact: I might prefer English or Chinese over Korean 😄  
   
 
 <br/>  

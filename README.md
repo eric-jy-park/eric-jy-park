@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm 박준열 Park Joon Youl, and I go by Eric Park.
 <br/>
-  <div align="center"> I am a Frontend Developer working as a <strong>CTO</strong> at 
+  <div align="center"> I am a <strong>Frontend Developer</strong> working as a <strong>CTO</strong> at 
   <div align="center"><a href="https://www.myplanit-home.site/"><img style="width: 50%" src="https://user-images.githubusercontent.com/80627536/169635921-360ab32d-0ca7-4abe-a91e-0f5f0735050d.png"/></a></div>
 
 

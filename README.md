@@ -17,7 +17,7 @@
 
   
 
-🔭  I’m currently interested in <strong>Competitive Programming</strong> and <strong>Backend Development</strong>
+🔭  I’m currently interested in <strong>Competitive Programming</strong>
   
 
 🌱 I’m currently learning <strong>Django Rest Framework</strong> and <strong>Go</strong>

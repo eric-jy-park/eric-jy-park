@@ -1,4 +1,4 @@
-### <div align="center">I'm 박준열 Park Joon Youl, and I go by Eric Park.
+# <div align="center">I'm 박준열 Park Joon Youl, and I go by Eric Park.
   <br/>
   <div align="center"><img style="width: 30%" src="https://user-images.githubusercontent.com/80627536/210167623-8cdc15fb-8f8c-47ae-884a-16314346f14a.png"/></div>
   <br/>

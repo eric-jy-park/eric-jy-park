@@ -4,7 +4,9 @@
   <br/>
   <br/>
   <div align="center"> I am a <strong>Frontend Developer</strong> at 
-  <div align="center"><a href="https://www.myplanit-home.site/"><img style="width: 50%" src="https://user-images.githubusercontent.com/80627536/210166833-67d827ba-763e-454d-b131-2c6658b36d90.png"/></a></div>
+  <div align="center">
+       <img style="width: 50%" src="https://user-images.githubusercontent.com/80627536/210166833-67d827ba-763e-454d-b131-2c6658b36d90.png"/>
+  </div>
     
   <div align="center">and I am also a <strong>Backend Developer</strong> at 
     <br/>

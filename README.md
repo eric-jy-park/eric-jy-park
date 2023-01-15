@@ -36,7 +36,7 @@ My Portfolio: https://bokdol.notion.site/6e9495beb4af498a8254da3791eed6cb
       
 My Website: https://bokdol.site
       
-My Blog: https://bokdolblog.vercel.app
+My Blog: https://blog.bokdol.site
       
 
 <br/>  

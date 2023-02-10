@@ -22,7 +22,7 @@
 🔭  I’m currently interested in <strong>Competitive Programming</strong> and <strong>Front-End Development</strong>
   
 
-📫 How to reach me: 2019147551@yonsei.ac.kr 
+📫 How to reach me: eric010506@naver.com
   
 
 ⚡ Fun fact: I might prefer English or Chinese over Korean 😄  

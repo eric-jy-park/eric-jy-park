@@ -19,10 +19,7 @@
 
   
 
-🔭  I’m currently interested in <strong>Competitive Programming</strong>
-  
-
-🌱 I’m currently learning <strong>Django Rest Framework</strong> and <strong>GoLang</strong>
+🔭  I’m currently interested in <strong>Competitive Programming</strong> and <strong>Front-End Development</strong>
   
 
 📫 How to reach me: 2019147551@yonsei.ac.kr 

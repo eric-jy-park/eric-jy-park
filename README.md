@@ -1,7 +1,7 @@
-# <div align="center">I'm 박준열 Park Joon Youl, and I go by Eric Park.
+# <div align="center"> Eric Park | 박준열
   <br/>
   <div align="center"><img style="width: 30%" src="https://user-images.githubusercontent.com/80627536/210167623-8cdc15fb-8f8c-47ae-884a-16314346f14a.png"/></div>
-  <br/>
+<!--   <br/>
   <br/>
   <div align="center"> I am a <strong>Frontend Developer</strong> at 
   <div align="center">
@@ -14,35 +14,42 @@
   <div align="center"><img style="width: 50%" src="https://user-images.githubusercontent.com/80627536/210166750-8faff177-61a5-420d-b2e3-bf2d604c9a5c.png"/>
     <br/>
     <br/>
-  </div>
+  </div> -->
 
+## Profile
 
+ * <strong>Front-end Developer</strong> @ [MyPlanit](https://todo-mall-sandy.vercel.app/)
   
-
-🔭  I’m currently interested in <strong>Competitive Programming</strong> and <strong>Front-End Development</strong>
+ * <strong>Back-end Developer</strong> @ [Recipeasy](https://recipeasy-client-ten.vercel.app/)
   
-
-📫 How to reach me: eric010506@naver.com
+ * <strong>Undergraduate Student</strong> @ [Computer Science, Yonsei Unversity](https://cs.yonsei.ac.kr/)
   
-
-⚡ Fun fact: I might prefer English or Chinese over Korean 😄  
-
 <br/>
-    
-My Portfolio: https://bokdol.notion.site/6e9495beb4af498a8254da3791eed6cb
-      
-My Website: https://bokdol.site
-      
-My Blog: https://blog.bokdol.site
-      
+  
+ * <strong>Contact:</strong> eric010506@naver.com
 
-<br/>  
+ * <strong>My Portfolio:</strong> https://bokdol.notion.site/95d0ecd43de14dc8866c13ef82ce85e1
+
+ * <strong>My Website:</strong> https://bokdol.site
+
+ * <strong>My Blog:</strong> https://blog.bokdol.site
+
+  <br/>  
+  
+  Feel free to contact me as I am always open to new opportunities!
+
+  
 
 
-## My Skill Set  
 
 
-<div align="center">  
+
+
+
+<div align="left">
+  
+  ## My Skill Set  
+  
   <h3 style="width: 50%">
     Front-End
   </h3>
@@ -79,5 +86,8 @@ My Blog: https://blog.bokdol.site
   </div>
 
   
-  
 </div>
+    
+## ㅤ
+    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBokdol11859)](https://github.com/Bokdol11859)

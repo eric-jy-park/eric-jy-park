@@ -28,7 +28,7 @@
   
  * <strong>Contact:</strong> eric010506@naver.com
 
- * <strong>Website:</strong> https://bokdol.site
+<!--  * <strong>Website:</strong> https://bokdol.site -->
 
  * <strong>Blog:</strong> https://blog.bokdol.site
   

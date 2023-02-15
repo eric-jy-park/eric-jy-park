@@ -18,9 +18,9 @@
 
 ## Profile
 
- * <strong>Front-end Developer</strong> @ [MyPlanit](https://todo-mall-sandy.vercel.app/)
+ * <strong>Ex-Front-end Developer</strong> @ [MyPlanit](https://todo-mall-sandy.vercel.app/)
   
- * <strong>Back-end Developer</strong> @ [Recipeasy](https://recipeasy-client-ten.vercel.app/)
+ * <strong>Ex-Back-end Developer</strong> @ [Recipeasy](https://recipeasy-client-ten.vercel.app/)
   
  * <strong>Undergraduate Student</strong> @ [Computer Science, Yonsei Unversity](https://cs.yonsei.ac.kr/)
   
@@ -28,11 +28,11 @@
   
  * <strong>Contact:</strong> eric010506@naver.com
 
- * <strong>My Portfolio:</strong> https://bokdol.notion.site/95d0ecd43de14dc8866c13ef82ce85e1
+ * <strong>Website:</strong> https://bokdol.site
 
- * <strong>My Website:</strong> https://bokdol.site
-
- * <strong>My Blog:</strong> https://blog.bokdol.site
+ * <strong>Blog:</strong> https://blog.bokdol.site
+  
+ * <strong>Resume:</strong> https://bit.ly/3RZNK22
 
   <br/>  
   

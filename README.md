@@ -32,7 +32,7 @@
 
  * <strong>Blog:</strong> https://blog.bokdol.site
   
- * <strong>Resume:</strong> https://bit.ly/3RZNK22
+ * <strong>Resume:</strong> https://bokdol.notion.site/bokdol/95d0ecd43de14dc8866c13ef82ce85e1
 
   <br/>  
   

@@ -19,10 +19,10 @@
 # Eric Park | 박준열
 
  * <strong>Software Engineer</strong> @ [Riiid](https://riiid.com/) 
-  
+<!--   
  * <strong>Ex-Front-end Engineer</strong> @ [MyPlanit](https://todo-mall-sandy.vercel.app/)
   
- * <strong>Ex-Back-end Engineer</strong> @ [Recipeasy](https://recipeasy-client-ten.vercel.app/)
+ * <strong>Ex-Back-end Engineer</strong> @ [Recipeasy](https://recipeasy-client-ten.vercel.app/) -->
   
  * <strong>Undergraduate Student</strong> @ [Computer Science, Yonsei Unversity](https://cs.yonsei.ac.kr/)
   

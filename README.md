@@ -34,8 +34,6 @@
 
  
   
- * <strong>Resume:</strong> https://bit.ly/3lU9xMQ
-
  * <strong>Blog:</strong> https://velog.io/@bokdol11859
   
    * [CSS 속성을 통해 뚝뚝 끊기는 애니메이션 개선 | 리팩토링을 통해 서비스 최적화하기 1편](https://velog.io/@bokdol11859/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9D%84-%ED%86%B5%ED%95%B4-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0-CSS-%EC%86%8D%EC%84%B1%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%9A%9D%EB%9A%9D-%EB%81%8A%EA%B8%B0%EB%8A%94-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EA%B0%9C%EC%84%A0)

@@ -1,6 +1,6 @@
-# <div align="center"> Eric Park | 박준열
+<!-- # <div align="center"> Eric Park | 박준열
   <br/>
-  <div align="center"><img style="width: 30%" src="https://user-images.githubusercontent.com/80627536/233378560-2a4efe73-e80a-4b54-a403-082cde3d9766.png"/></div>
+  <div align="center"><img style="width: 30%" src="https://user-images.githubusercontent.com/80627536/233378560-2a4efe73-e80a-4b54-a403-082cde3d9766.png"/></div> -->
 <!--   <br/>
   <br/>
   <div align="center"> I am a <strong>Frontend Developer</strong> at 
@@ -16,7 +16,7 @@
     <br/>
   </div> -->
 
-## Profile
+# Eric Park | 박준열
 
  * <strong>Software Engineer</strong> @ [Riiid](https://riiid.com/) 
   

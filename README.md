@@ -1,6 +1,6 @@
 # <div align="center"> Eric Park | 박준열
   <br/>
-  <div align="center"><img style="width: 30%" src="https://user-images.githubusercontent.com/80627536/210167623-8cdc15fb-8f8c-47ae-884a-16314346f14a.png"/></div>
+  <div align="center"><img style="width: 30%" src="https://user-images.githubusercontent.com/80627536/233378560-2a4efe73-e80a-4b54-a403-082cde3d9766.png"/></div>
 <!--   <br/>
   <br/>
   <div align="center"> I am a <strong>Frontend Developer</strong> at 
@@ -18,9 +18,11 @@
 
 ## Profile
 
- * <strong>Ex-Front-end Developer</strong> @ [MyPlanit](https://todo-mall-sandy.vercel.app/)
+ * <strong>Software Engineer</strong> @ [Riiid](https://riiid.com/) 
   
- * <strong>Ex-Back-end Developer</strong> @ [Recipeasy](https://recipeasy-client-ten.vercel.app/)
+ * <strong>Ex-Front-end Engineer</strong> @ [MyPlanit](https://todo-mall-sandy.vercel.app/)
+  
+ * <strong>Ex-Back-end Engineer</strong> @ [Recipeasy](https://recipeasy-client-ten.vercel.app/)
   
  * <strong>Undergraduate Student</strong> @ [Computer Science, Yonsei Unversity](https://cs.yonsei.ac.kr/)
   

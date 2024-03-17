@@ -24,7 +24,7 @@
   
  * <strong>Ex-Back-end Engineer</strong> @ [Recipeasy](https://recipeasy-client-ten.vercel.app/) -->
   
- * <strong>Undergraduate Student</strong> @ [Computer Science, Yonsei Unversity](https://cs.yonsei.ac.kr/)
+ * <strong>Undergraduate Student</strong> @ [Computer Science, Yonsei University](https://cs.yonsei.ac.kr/)
   
 <br/>
   

@@ -20,7 +20,7 @@
 
  * <strong>Software Engineer</strong> @ [Riiid](https://riiid.com/)
 
- * <strong>President</strong> @ [Nexters](https://nexters.co.kr) 
+ * <strong>Ex-President</strong> @ [Nexters](https://nexters.co.kr) 
   
  * <strong>Undergraduate Student</strong> @ [Computer Science, Yonsei University](https://cs.yonsei.ac.kr/)
   

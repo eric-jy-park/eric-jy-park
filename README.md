@@ -26,7 +26,7 @@
   
 <br/>
   
- * <strong>Contact:</strong> eric010506@naver.com
+ * <strong>Contact:</strong> joonyoul@ericpark.me
 
 <!--  * <strong>Website:</strong> https://bokdol.site -->
 

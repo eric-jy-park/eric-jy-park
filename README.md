@@ -29,14 +29,13 @@
  * <strong>Contact:</strong> joonyoul@ericpark.me
 
 <!--  * <strong>Website:</strong> https://bokdol.site -->
-
  
   
- * <strong>Blog:</strong> https://velog.io/@bokdol11859
-   
-   * [Vercel의 새로운 서비스, V0.dev 사용 후기](https://velog.io/@bokdol11859/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%81%9D-V0.dev-%EC%82%AC%EC%9A%A9-%ED%9B%84%EA%B8%B0)
-   * [CSS 속성을 통해 뚝뚝 끊기는 애니메이션 개선 | 리팩토링을 통해 서비스 최적화하기 1편](https://velog.io/@bokdol11859/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9D%84-%ED%86%B5%ED%95%B4-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0-CSS-%EC%86%8D%EC%84%B1%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%9A%9D%EB%9A%9D-%EB%81%8A%EA%B8%B0%EB%8A%94-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%EA%B0%9C%EC%84%A0)
-   * [대부분이 모르는 Next에서 SSG가 작동하는 방식 | 리팩토링을 통해 서비스 최적화하기 2편](https://velog.io/@bokdol11859/%EB%8C%80%EB%B6%80%EB%B6%84%EC%9D%B4-%EB%AA%A8%EB%A5%B4%EB%8A%94-Next%EC%97%90%EC%84%9C-SSG%EA%B0%80-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9D%84-%ED%86%B5%ED%95%B4-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0-2%ED%8E%B8)
+ * <strong>Recent Blog Posts</strong>
+   * [React Server Component와 Streaming으로 웹 성능 극대화하기: Next.js 실전 가이드](https://medium.com/riiid-teamblog-kr/react-server-component%EC%99%80-streaming%EC%9C%BC%EB%A1%9C-%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EA%B7%B9%EB%8C%80%ED%99%94%ED%95%98%EA%B8%B0-next-js-%EC%8B%A4%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C-a57ab8e1fd06)
+   * [Vercel의 새로운 서비스, V0.dev 사용 후기](https://www.ericpark.me/devs/v0)
+   * [CSS 속성을 통해 뚝뚝 끊기는 애니메이션 개선 | 리팩토링을 통해 서비스 최적화하기 1편](https://www.ericpark.me/devs/ssg-1)
+   * [대부분이 모르는 Next에서 SSG가 작동하는 방식 | 리팩토링을 통해 서비스 최적화하기 2편](https://www.ericpark.me/devs/ssg-2)
    * [리액트에서의 Single Source of Truth, 근데 React-Query를 곁들인](https://velog.io/@bokdol11859/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C%EC%9D%98-Single-Source-of-Truth-%EA%B7%BC%EB%8D%B0-React-Query%EB%A5%BC-%EA%B3%81%EB%93%A4%EC%9D%B8)
 
   

@@ -17,12 +17,12 @@
   </div> -->
 
 # Eric Park | 박준열
-
- <!-- * <strong>Software Engineer</strong> @ [Riiid](https://riiid.com/) -->
-
- * <strong>Ex-President</strong> @ [Nexters](https://nexters.co.kr) 
   
  * <strong>Undergraduate Student</strong> @ [Computer Science, Yonsei University](https://cs.yonsei.ac.kr/)
+
+ * <strong>Ex-Software Engineer</strong> @ [Riiid](https://riiid.com/)
+
+ * <strong>Ex-President</strong> @ [Nexters](https://nexters.co.kr) 
   
 <br/>
   

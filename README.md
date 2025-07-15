@@ -18,7 +18,7 @@
 
 # Eric Park | 박준열
 
- * <strong>Software Engineer</strong> @ [Riiid](https://riiid.com/)
+ <!-- * <strong>Software Engineer</strong> @ [Riiid](https://riiid.com/) -->
 
  * <strong>Ex-President</strong> @ [Nexters](https://nexters.co.kr) 
   
